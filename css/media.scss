@@ -1,0 +1,23 @@
+$fontColor:rgb(63, 197, 190);
+
+#media {
+    margin-top: 8%;
+    margin-bottom: 10%;
+    .row {
+        h3 {
+            text-transform: uppercase;
+            text-align: center;
+        }
+        p {
+            text-align: center;
+            color: $fontColor;
+        }
+    }
+    .row {
+        display: flex;
+        .cards {
+            border: none;
+            margin: 3%;
+        }
+    }
+}

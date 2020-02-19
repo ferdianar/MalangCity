@@ -1,0 +1,26 @@
+#media {
+  margin-top: 8%;
+  margin-bottom: 10%;
+}
+
+#media .row h3 {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+#media .row p {
+  text-align: center;
+  color: #3fc5be;
+}
+
+#media .row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+#media .row .cards {
+  border: none;
+  margin: 3%;
+}
+/*# sourceMappingURL=media.css.map */

@@ -1,0 +1,24 @@
+@media (max-width: 768px) {
+    #menus {
+        display: flex;
+        overflow: hidden;
+    }
+    #culture {
+        display: flex;
+    }
+    .colCards {
+        width: 100%;
+        margin: auto;
+    }
+    #maps {
+        margin: auto;
+        text-align: center;
+        margin-top: 8%;
+    }
+    .tabl {
+        font-size: 12px;
+    }
+    .tjs {
+        text-align: justify;
+    }
+}
